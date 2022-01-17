@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#E65100</color>
+    <color name="colorAccent">#2E7D32</color>
+    <color name="purple_500">#2E7D32</color>
+    <color name="purple_700">#2E7D32</color>
+    <color name="white">#2E7D32</color>
+    <color name="teal_200">#2E7D32</color>
+    <color name="purple_200">#2E7D32</color>
+    <color name="teal_700">#2E7D32</color>
+    <color name="black">#2E7D32</color>
+    <color name="colorTitle">#2E7D32</color>
+
+    <!-- Status bar color. -->
+</resources>
